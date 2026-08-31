@@ -30,3 +30,15 @@ Mann et al. (2026). *A rapid, semi-automated image-based method for quantitative
 ## Version
 
 v1.0.0
+
+## About the name
+
+RONUM is not an acronym.
+
+The project was originally developed under the name **ROBIGUS**, after Robigus/Robigo, the Roman deity associated with cereal rust and the annual Robigalia rites intended to protect crops from the disease. Shortly before publication, we discovered that the name Robigus had recently been adopted by an unrelated plant-pathology software project, so the macro was renamed to avoid confusion.
+
+I commend Assistant Professor Braham Dhillon for their excellent taste.
+
+**RONUM** was chosen as a short replacement, loosely evoking rust quantification and numerical measurement.
+
+ROBIGUS was a better name. Such is life.
