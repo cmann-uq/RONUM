@@ -12,7 +12,7 @@
 // or quantification output options. Those belong in the quantification macro.
 //
 
-requires("1.53");
+requires("1.54");
 
 
 // ============================================================
