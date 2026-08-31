@@ -14,7 +14,7 @@
 //
 // The selected RONUM folder should contain Settings/ and Run_Presets/.
 
-requires("1.53");
+requires("1.54");
 
 
 // ============================================================
