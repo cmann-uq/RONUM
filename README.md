@@ -31,6 +31,15 @@ Mann et al. (2026). *A rapid, semi-automated image-based method for quantitative
 
 v1.0.0
 
+## Licence
+
+RONUM is open-source software licensed under the GNU Affero General Public License v3.0 (AGPLv3). See the `LICENSE` file for the full licence terms.
+
+The software is provided without warranty; use of RONUM and interpretation of its outputs remain the responsibility of the user.
+
+Commercial or proprietary licensing arrangements may be available separately. [Contact details for enquiry are to be updated]. 
+
+
 ## About the name
 
 RONUM is not an acronym.
